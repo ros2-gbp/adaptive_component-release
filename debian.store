@@ -1,1 +1,1 @@
-{"base": "eef753c", "parent": "debian/rolling/adaptive_component", "previous": "4a13797", "trim": "", "trimbase": ""}
+{"base": "2f26ac5af2d8", "parent": "debian/kilted/adaptive_component", "previous": "56d0baac7fd1", "trim": "", "trimbase": ""}
